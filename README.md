@@ -1,7 +1,6 @@
 # C-Proxy-Server-Threadpool-Local-HTTP-Client
 
 ## The project implements a HTTP proxy-server over the TCP/IP protocols using multithreading concepts.
->>>>>>> bc5e22f1889da407a31747c9762dd5455ca45521
 
 - Multithreading achieved by using threadpool library that is part of the project.
 - A local client is added in order to help testing the program.
